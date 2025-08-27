@@ -300,7 +300,6 @@ jobs:
           negative_insulin \
           live_activity \
           meal_days \
-          meal_week \
           2hlollipop \
           basal_lock \
           remote_window
